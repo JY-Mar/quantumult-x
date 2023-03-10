@@ -1,3 +1,3 @@
 # quantumultX
 
-[规则](./lazyRules.md)
+[规则](./lazyRule.conf)
